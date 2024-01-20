@@ -7,7 +7,7 @@ I'm Alexandre Mattos, I'm a beginner front end programmer, I currently create pr
 
 Learning:
 
-<img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor" alt="java-logo"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor" alt="java-logo"/> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=70&color=currentColor" alt="react-logo"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" alt="python-logo"/>
 
 
